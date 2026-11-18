@@ -2,7 +2,7 @@
 
 **GitHub username:** `mfnu906-ship-it`  
 **Project:** CAMPUS LOOP — IS117 Group Business Research  
-**Research date:** November 17, 2026
+**Research date:** November 12, 2026
 
 > This is an AI-assisted draft for Muniba to inspect and adopt. Muniba should open each original page, confirm the details, make any corrections, and commit her own contribution. Do not describe a task as personally completed until she has reviewed and accepted the work.
 
