@@ -6,8 +6,8 @@
 
 | Member | GitHub username | Research / design contribution | Review / QA contribution | Evidence links |
 |---|---|---|---|---|
-| Member 1 | `ADD-USERNAME` | Check JanSport and Herschel source details; draft competitor comparison. | Review Member 2's source notes and proposed design logic. | Add commit, issue, and review links. |
-| Member 2 | `ADD-USERNAME` | Check Fjällräven source details; draft positioning alternatives and persona hypotheses. | Review Member 1's comparison and proposed design logic. | Add commit, issue, and review links. |
+| Muniba Sarwar | `mfnu906-ship-it` | Check JanSport and Herschel source details; draft competitor comparison. | Review Member 2's source notes and proposed design logic. | Add commit, issue, and review links. |
+| Ghazia Javed | `grrvbwpv6g-create` | Check Fjällräven source details; draft positioning alternatives and persona hypotheses. | Review Member 1's comparison and proposed design logic. | Add commit, issue, and review links. |
 
 ## Decisions
 
