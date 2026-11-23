@@ -27,10 +27,9 @@
 7. Ask the reviewer to retry the check. Only close an issue after the reviewer confirms a resolved item. Keep unfinished items open with a next step.
 
 ## Review log
-
 | Issue | Feedback | Team decision and reason | Change / commit / PR | Verification performed | Reviewer retry | Status |
 |---|---|---|---|---|---|---|
-| Add after issue is created | Not yet received | Pending | Pending | Pending | Pending | Not started |
+| [Issue #1](https://github.com/mfnu906-ship-it/is117-group-business/issues/1) | Ghazia suggested clarifying the customer task, adding both contribution links, and recording actual check results. | Accepted all three suggestions. | [Updated research page](https://github.com/mfnu906-ship-it/is117-group-business/blob/main/research.html) | Added a specific customer task, linked both contributions, and clearly labeled checks as planned, not completed. | Ghazia reviewed the updates and approved them on November 23, 2026. | Peer feedback resolved; product checks remain planned. |
 
 ## Change and open-issue note
 
