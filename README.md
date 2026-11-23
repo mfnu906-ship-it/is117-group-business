@@ -44,6 +44,7 @@ Both peer-review issues have received feedback, revisions, and reviewer approval
 ## Research Status
 
 - Competitor research compares JanSport, Herschel, and Fjällräven.
+- JanSport and Herschel product pages were checked on **November 17, 2026**; the Fjällräven page was checked on **November 23, 2026**.
 - Student personas are hypotheses, not actual interviews.
 - Product features and affordability are proposed goals, not validated customer preferences.
 - Planned product checks have not yet been completed.
