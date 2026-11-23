@@ -6,8 +6,8 @@
 
 | Member | GitHub username | Research / design contribution | Review / QA contribution | Evidence links |
 |---|---|---|---|---|
-| Muniba Sarwar | `mfnu906-ship-it` | Check JanSport and Herschel source details; draft competitor comparison. | Review Member 2's source notes and proposed design logic. | Add commit, issue, and review links. |
-| Ghazia Javed | `grrvbwpv6g-create` | Check Fjällräven source details; draft positioning alternatives and persona hypotheses. | Review Member 1's comparison and proposed design logic. | Add commit, issue, and review links. |
+| Muniba Sarwar | `mfnu906-ship-it` | Check JanSport and Herschel source details; draft competitor comparison. | Review Member 2's source notes and proposed design logic. | [Research contribution](muniba-member-1-contribution.md), [Peer-review Issue #2](https://github.com/mfnu906-ship-it/is117-group-business/issues/2), [Research documentation commit](https://github.com/mfnu906-ship-it/is117-group-business/commit/0dc74949933039691cfd8411f12b6fbc6a702490). |
+| Ghazia Javed | `grrvbwpv6g-create` | Check Fjällräven source details; draft positioning alternatives and persona hypotheses. | Review Member 1's comparison and proposed design logic. | [Research contribution](ghazia-member-2-contribution.md), [Peer-review Issue #1](https://github.com/mfnu906-ship-it/is117-group-business/issues/1), [My research commit](https://github.com/mfnu906-ship-it/is117-group-business/commit/24c471a64bef92ad7919752e5ca4ab6c1d228d4d). |
 
 ## Decisions
 
