@@ -1,41 +1,54 @@
 # CAMPUS LOOP — Group Business Research
 
-A two-person IS117 Group Business research project exploring a practical, affordable backpack concept for college students.
+A two-person IS117 Group Business research project exploring a practical backpack concept for college students.
 
-## Project concept
+## Project Concept
 
-**CAMPUS LOOP** is a proposed backpack brand for college students, especially students who commute and carry a laptop, notebooks, chargers, and everyday essentials.
+CAMPUS LOOP is a proposed backpack brand focused on practical storage, simple design, and everyday campus use.
 
-**Draft brand promise:** Simple, comfortable, practical backpacks that help college students carry everyday essentials without paying premium prices.
+**Brand promise:** Simple, comfortable, practical backpacks that help college students carry their everyday essentials.
 
-> This is a proposed class project concept, not an operating business. Product features, pricing, and customer demand have not been validated.
+This is a class project concept. Product specifications, pricing, and customer demand have not yet been validated.
 
-## Website
+## Published Website
 
-This repository includes a small static site:
+- [Homepage](https://mfnu906-ship-it.github.io/is117-group-business/)
+- [Research Page](https://mfnu906-ship-it.github.io/is117-group-business/research.html)
+- [Team and Peer-Review Record](team-and-peer-review.md)
 
-- `index.html` — project overview
-- `research.html` — competitor research, positioning alternatives, persona hypotheses, and proposed design decisions
-- `style.css` — shared styles
+## Repository Files
 
-## Publish with GitHub Pages
+- `index.html` — Project homepage
+- `research.html` — Competitor research, positioning, personas, and design decisions
+- `style.css` — Website styling
+- `muniba-member-1-contribution.md` — Member 1 research
+- `ghazia-member-2-contribution.md` — Member 2 research
+- `team-and-peer-review.md` — Team contributions and peer-review record
+- `peer-review-issue.md` — Peer-review request template
 
-1. Create a new **public** GitHub repository named `campus-loop-brand-research` under the team's chosen GitHub account.
-2. Upload all files and folders from this project ZIP to the repository root (not the ZIP file itself).
-3. Commit the files to the `main` branch.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-6. After GitHub Pages finishes publishing, the site URL will usually be `https://YOUR-USERNAME.github.io/campus-loop-brand-research/`. Use the exact URL shown in Settings → Pages.
-7. Invite the second team member from **Settings → Collaborators**. Add their actual GitHub username; do not guess it.
+## Team Members
 
-## Team setup
+**Member 1:** Muniba Sarwar  
+GitHub: `mfnu906-ship-it`
 
-The team member names and usernames are intentionally left as placeholders in `docs/team-and-peer-review.md`. Fill them in before submitting. Each member should make identifiable contributions through their own commits, issue discussions, research checks, and review.
+**Member 2:** Ghazia Javed  
+GitHub: `grrvbwpv6g-create`
 
-## Important research status
+## Peer Review
 
-- Official competitor product pages were checked on **November 17, 2026**.
-- The personas are hypotheses, not interview findings.
-- The CAMPUS LOOP product and website features are proposals, not completed or user-tested features.
-- The peer-review request in `docs/peer-review-issue.md` is a draft. Do not claim a reviewer has checked it until someone actually does so.
-- Verify every source and page again before final submission because product details, prices, availability, and page content can change.
+- [Issue #1 — Review CAMPUS LOOP Research](https://github.com/mfnu906-ship-it/is117-group-business/issues/1)
+- [Issue #2 — Review Fjällräven Research](https://github.com/mfnu906-ship-it/is117-group-business/issues/2)
+
+Both peer-review issues have received feedback, revisions, and reviewer approval.
+
+## Research Status
+
+- Competitor research compares JanSport, Herschel, and Fjällräven.
+- Student personas are hypotheses, not actual interviews.
+- Product features and affordability are proposed goals, not validated customer preferences.
+- Planned product checks have not yet been completed.
+- Actual results should be documented after verification.
+
+## GitHub Pages
+
+The website is published using GitHub Pages from the `main` branch and repository root.
