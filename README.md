@@ -6,9 +6,9 @@ A two-person IS117 Group Business research project exploring a practical backpac
 
 CAMPUS LOOP is a proposed backpack brand focused on practical storage, simple design, and everyday campus use.
 
-**Brand promise:** Simple, comfortable, practical backpacks that help college students carry their everyday essentials.
+**Brand promise:** **Draft brand promise:** Simple, comfortable, practical backpacks that help college students carry their everyday essentials.
 
-This is a class project concept. Product specifications, pricing, and customer demand have not yet been validated.
+**Pricing goal:** CAMPUS LOOP aims to offer affordable pricing for college students. This is a proposed goal, not a validated customer preference or confirmed price point.
 
 ## Published Website
 
