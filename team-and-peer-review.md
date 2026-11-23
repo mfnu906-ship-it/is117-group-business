@@ -1,6 +1,6 @@
 # Team and Peer-Review Record — CAMPUS LOOP
 
-> Fill in the actual names and GitHub usernames. This page is a planning record; do not claim work, review, or verification that has not happened.
+> This record documents CAMPUS LOOP team contributions, research decisions, peer-review feedback, verification, and remaining work. Planned checks are distinguished from completed activities.
 
 ## Team
 
